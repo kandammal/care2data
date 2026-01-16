@@ -64,7 +64,7 @@ A comprehensive **Clinical Decision Support System** that generates pharmacovigi
 │  │  • Risk Factors      │      │  • Clinical Signs    │            │
 │  │  • Monitoring        │      │  • Diagnostic Markers│            │
 │  └──────────────────────┘      └──────────────────────┘            │
-│             3072-dimensional vector embeddings                      │
+│             384-dimensional vector embeddings                      │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
