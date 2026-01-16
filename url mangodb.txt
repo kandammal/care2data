@@ -1,0 +1,4 @@
+url mangodb - mongodb+srv://vksundari10_db_user:<db_password>@cluster0.nthjcdo.mongodb.net/?appName=Cluster0
+driver mango db - python -m pip install "pymongo[srv]==3.11"
+
+apigroq - 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
